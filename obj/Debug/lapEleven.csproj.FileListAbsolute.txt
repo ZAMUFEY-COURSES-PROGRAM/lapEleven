@@ -1,0 +1,20 @@
+C:\Users\zakio\Music\CodeCrafters\Labs\lapEleven\bin\Debug\lapEleven.exe.config
+C:\Users\zakio\Music\CodeCrafters\Labs\lapEleven\bin\Debug\lapEleven.exe
+C:\Users\zakio\Music\CodeCrafters\Labs\lapEleven\bin\Debug\lapEleven.pdb
+C:\Users\zakio\Music\CodeCrafters\Labs\lapEleven\obj\Debug\lapEleven.csproj.AssemblyReference.cache
+C:\Users\zakio\Music\CodeCrafters\Labs\lapEleven\obj\Debug\lapEleven.Form1.resources
+C:\Users\zakio\Music\CodeCrafters\Labs\lapEleven\obj\Debug\lapEleven.Properties.Resources.resources
+C:\Users\zakio\Music\CodeCrafters\Labs\lapEleven\obj\Debug\lapEleven.csproj.GenerateResource.cache
+C:\Users\zakio\Music\CodeCrafters\Labs\lapEleven\obj\Debug\lapEleven.csproj.CoreCompileInputs.cache
+C:\Users\zakio\Music\CodeCrafters\Labs\lapEleven\obj\Debug\lapEleven.exe
+C:\Users\zakio\Music\CodeCrafters\Labs\lapEleven\obj\Debug\lapEleven.pdb
+Z:\CodeCrafters\Labs\Section 1\lapEleven\bin\Debug\lapEleven.exe.config
+Z:\CodeCrafters\Labs\Section 1\lapEleven\bin\Debug\lapEleven.exe
+Z:\CodeCrafters\Labs\Section 1\lapEleven\bin\Debug\lapEleven.pdb
+Z:\CodeCrafters\Labs\Section 1\lapEleven\obj\Debug\lapEleven.csproj.AssemblyReference.cache
+Z:\CodeCrafters\Labs\Section 1\lapEleven\obj\Debug\lapEleven.Form1.resources
+Z:\CodeCrafters\Labs\Section 1\lapEleven\obj\Debug\lapEleven.Properties.Resources.resources
+Z:\CodeCrafters\Labs\Section 1\lapEleven\obj\Debug\lapEleven.csproj.GenerateResource.cache
+Z:\CodeCrafters\Labs\Section 1\lapEleven\obj\Debug\lapEleven.csproj.CoreCompileInputs.cache
+Z:\CodeCrafters\Labs\Section 1\lapEleven\obj\Debug\lapEleven.exe
+Z:\CodeCrafters\Labs\Section 1\lapEleven\obj\Debug\lapEleven.pdb
